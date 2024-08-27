@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../thirdparty/tinyobjloader/include/tiny_obj_loader.h
+map
+-
+string
+-
+vector
+-
+cassert
+-
+cctype
+-
+cmath
+-
+cstddef
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+map
+-
+sstream
+-
+string
+-
+vector
+-
+tiny_obj_loader.h
+../thirdparty/tinyobjloader/include/tiny_obj_loader.h
+
+/home/cgvsl/Class_P76111131/CV_Hw1/sample_code_simple_window/thirdparty/tinyobjloader/src/tiny_obj_loader.cc
+tiny_obj_loader.h
+/home/cgvsl/Class_P76111131/CV_Hw1/sample_code_simple_window/thirdparty/tinyobjloader/src/tiny_obj_loader.h
+
