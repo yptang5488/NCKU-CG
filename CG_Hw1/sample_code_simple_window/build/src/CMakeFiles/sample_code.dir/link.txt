@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/sample_code.dir/Main.cpp.o  -o ../bin/sample_code  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libGL.so ../thirdparty/glad/libglad.a ../thirdparty/imgui/libimgui.a ../thirdparty/stb/libstb.a ../thirdparty/tinyobjloader/libtinyobjloader.a -ldl ../thirdparty/glad/libglad.a /usr/local/lib/libglfw.so.3.3 
